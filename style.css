@@ -13,7 +13,8 @@ body{
     align-items: center;
     justify-content: space-between;
     color: #FF0101;
-    }
+    font-family: 'Dancing Script', cursive;
+    } 
     
     .titulo-corpo{
     display: flex;
