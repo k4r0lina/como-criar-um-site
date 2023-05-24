@@ -19,3 +19,7 @@ header{
     font-size: 25px;
     justify-content: space-around;
 }
+.body{
+  margin: 0%;
+  padding: 0%;  
+}
