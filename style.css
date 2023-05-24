@@ -23,3 +23,9 @@ header{
   margin: 0%;
   padding: 0%;  
 }
+.header{
+    height: 250px;
+    align-items: center;
+    background-color: #FE9E9E;
+    display: flex;
+}
