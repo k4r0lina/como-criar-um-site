@@ -26,6 +26,24 @@ header{
 .header{
     height: 250px;
     align-items: center;
-    background-color: #FE9E9E;
+    background-color: #FF9E9E;
     display: flex;
+}
+.imagem-cabeçalho-1{
+    height: 170px;
+    left: 70px;
+    position: absolute;
+    width: 300px;
+    top: 17px;
+}
+.imagem-cabeçalho-2{
+    height: 170px;
+    justify-content: space-around;
+    left: 1110px;
+    position: absolute;
+    width: 300px;
+    top: 17px;
+}
+.titulo-cabeçalho{
+    
 }
